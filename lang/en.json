@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "blogs": "BLOGS",
+    "contact": "CONTACT",
+    "search_placeholder": "Search here...",
+    "dashboard": "DASHBOARD",
+    "gallery": "GALLERY"
+  },
+  "hero": {
+    "tagline": "Your Beauty, Our Passion",
+    "title": "Beauty Bliss",
+    "description": "Nurture your skin with the ultimate beauty indulgence.",
+    "shop_now": "Allocating time"
+  },
+  "sections": {
+    "explore": "EXPLORE",
+    "categories": "Our Categories",
+    "news": "NEWS",
+    "latest_articles": "Latest Articles",
+    "our_story": "OUR STORY",
+    "about_us": "About us",
+    "our_purpose": "OUR PURPOSE",
+    "vision_mission": "Our Vision & Mission",
+    "experts": "EXPERTS",
+    "meet_team": "Meet Our Team",
+    "faqs": "FAQ's",
+    "testimonials": "TESTIMONIALS",
+    "clients_review": "Clients Review",
+    "related": "RELATED",
+    "similar_posts": "Similar Posts"
+  },
+  "categories": {
+    "skin_care": "Skin care",
+    "hair_care": "Hair care",
+    "makeup": "Makeup",
+    "fragrances": "Fragrances",
+    "beauty_tools": "Beauty Tools"
+  },
+  "buttons": {
+    "shop_now": "Shop Now",
+    "read_more": "Read More",
+    "subscribe": "SUBSCRIBE",
+    "submit_now": "SUBMIT NOW",
+    "about_glomin": "ABOUT GLOMIN",
+    "sign_up": "Sign Up",
+    "log_in": "Log In",
+    "place_order": "Place Order"
+  },
+  "cta": {
+    "title": "Transform your skincare routine with glomin. shop now for exclusive offers!",
+    "free_shipping": "*Get Free Shipping"
+  },
+  "footer": {
+    "pages": "pages",
+    "resource": "Resource",
+    "utility": "Utility",
+    "home": "HOME",
+    "about": "About us",
+    "blogs": "Blogs",
+    "faq": "FAQ",
+    "contact": "Contact us",
+    "login": "Login",
+    "newsletter_text": "STAY CONNECTED WITH US FOR EXCLUSIVE UPDATES!",
+    "email_placeholder": "Email address",
+    "rights": "All rights reserved"
+  },
+  "forms": {
+    "email": "Email address",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "phone": "Phone number",
+    "message": "Write your message here",
+    "password": "Password",
+    "submit": "SUBMIT"
+  },
+  "common": {
+    "optional": "Optional", 
+    "loading": "Loading...",
+    "submit" :"SUBMIT"
+
+    
+  },
+  "auth": {
+    "login_title": "Login",
+    "login_subtitle": "Login with phone number or email",
+    "register_title": "Sign Up",
+    "register_subtitle": "Enter your phone number to receive a verification code",
+    "tab_phone": "Phone",
+    "tab_email": "Email",
+    "phone_label": "Phone Number",
+    "phone_placeholder": "0912 345 6789",
+    "email_label": "Email",
+    "email_placeholder": "you@example.com",
+    "password_label": "Password",
+    "password_placeholder": "••••••••",
+    "name_label": "Full Name",
+    "name_placeholder": "Full name",
+    "otp_label": "Verification Code",
+    "otp_placeholder": "- - - - -",
+    "otp_title_login": "Login Code",
+    "otp_title_register": "Verification Code",
+    "otp_subtitle": "Enter the code sent to {phone}",
+    "btn_send_otp_login": "Get Login Code",
+    "btn_send_otp_register": "Get Verification Code",
+    "btn_verify_login": "Login",
+    "btn_verify_register": "Verify & Sign Up",
+    "btn_login": "Login",
+    "btn_resend": "Resend Code",
+    "btn_back": "← Back",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "link_register": "Sign Up",
+    "link_login": "Login",
+    "msg_invalid_phone": "Invalid phone number",
+    "msg_otp_sent": "Verification code sent",
+    "msg_otp_resent": "Code resent",
+    "msg_otp_incomplete": "Please enter the full 5-digit code",
+    "msg_login_success": "Login successful!",
+    "msg_register_success": "Registration successful!",
+    "msg_error_send": "Error sending code",
+    "msg_error_verify": "Invalid verification code",
+    "msg_error_login": "Invalid email or password",
+    "loading": "Please wait...",
+    "optional": "Optional",
+    "referral_label": "Referral Code",
+    "referral_placeholder": "Enter referral code (optional)",
+    "forgot-password" :" ?Forgot your password ",
+    "forgot-title" :"Forgot-Password" ,
+    "title" :"Enter your account's mobile number so that a recovery code can be sent to you.",
+    "namber" :"Mobile number",
+    "recoverycode" : "Send recovery code"
+
+}, 
+"name_required": "Please enter your name",
+
+"about": {
+    "description": "Where your beauty journey begins. At Beauty Bliss, we believe that every individual deserves to feel confident and radiant.",
+  "title_secondary": "products",
+  "title": "Your ultimate destination for premium beauty"
+  },
+
+  "about_us": {
+    "title": "Welcome to glomin – your ultimate destination for premium beauty products",
+    "description": "At Glomin, we are passionate about helping you look and feel your best. Founded with a mission to deliver high-quality beauty products that cater to all your skincare, makeup, and fragrance needs, we pride ourselves on offering a curated selection of the finest products in the beauty industry.",
+
+   "customers": "Customer Satisfaction",
+  "customers_description": "Trusted by over 92% satisfied customers",
+  "awards": "Awards and Recognitions",
+  "awards_description": "Recipient of 30+ industry awards",
+  "global_reach": "Global Reach",
+  "global_reach_description": "Available in 20+ countries",
+  "Innovation": "Innovation",
+  "Innovation_description": "At Glomin, innovation is at the core of everything we do. We continuously strive to push the boundaries of beauty and skincare through cutting-edge research and advanced technology.",
+  "Empowering Beauty": "Empowering Beauty",
+  "Empowering Beauty_description": "We believe that beauty is about more than just appearance; it's about confidence, self-care, and embracing your unique beauty. Our mission is to empower you to feel beautiful.",
+"commitment" :"Glomin's commitment to quality and confidence",
+"commitment_description": "At Glomin, our mission is to empower individuals to embrace their unique beauty with confidence. We are dedicated to delivering premium beauty products that combine luxury with performance, ensuring that every product.,",
+"commitment_description2" :"Our commitment to using the finest ingredients and innovative formulas reflects our passion for quality and effectiveness."
+  }
+}
